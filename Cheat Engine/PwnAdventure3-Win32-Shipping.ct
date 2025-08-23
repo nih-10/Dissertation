@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"MANA"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x266245f8+0x12C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>4</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>BC</Offset>
+            <Offset>6C</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>63</ID>
+      <Description>"Jump"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x266245f8+0x12C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>64</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>0x124</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"Jump Hold Time"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x266245f8+0x12C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>0x128</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>67</ID>
+      <Description>"Remote Position"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x266245f8+0x12C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>68</ID>
+          <Description>"x"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>44</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"y"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>48</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>70</ID>
+          <Description>"z"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>65</ID>
+      <Description>"Walk"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x266245f8+0x12C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>120</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>47</ID>
+      <Description>"Inventory"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x266245f8+0x12C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"inventory path 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>18</Offset>
+            <Offset>0</Offset>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description>"inventory path 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>18</Offset>
+            <Offset>4</Offset>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"inventory path 3"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>18</Offset>
+            <Offset>8</Offset>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"inventory path 4"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>18</Offset>
+            <Offset>4</Offset>
+            <Offset>8</Offset>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>4</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>6C</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"HEALTH"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x266245f8+0x12C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"pointerscan result"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>4</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>41</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>43</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameLogic.dll"+00097D7C</Address>
+          <Offsets>
+            <Offset>-40</Offset>
+            <Offset>6C</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>73</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GameLogic.dll</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

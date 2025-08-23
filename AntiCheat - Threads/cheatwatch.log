@@ -1,0 +1,95 @@
+[+] Anti-Cheat: persistent watchdog started.
+[+] Game detected! PID: 22592
+[+] SCAN BEGIN
+[Thread] ID: 21460 | Start Addr: 01D8B963 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 21612 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 15180 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 17868 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 14948 | Start Addr: 754E66E0 | In Module: mswsock.dll | Signature: VALID
+[Thread] ID: 20348 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 2644 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 9028 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 19420 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 21088 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 3400 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 15540 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 11680 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 19796 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 23092 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 2472 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 21324 | Start Addr: 765D9110 | In Module: combase.dll | Signature: VALID
+[Thread] ID: 17208 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 14900 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 15620 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 22352 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 15604 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 21808 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 10924 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 7120 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 23008 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 16800 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 21220 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 18824 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 2984 | Start Addr: 60F9A670 | In Module: XAudio2_7.dll | Signature: VALID
+[Thread] ID: 23548 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 13260 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 17620 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 17428 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 13928 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 21692 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[+] SCAN BEGIN
+[Thread] ID: 21460 | Start Addr: 01D8B963 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 21612 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 15180 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 17868 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 14948 | Start Addr: 754E66E0 | In Module: mswsock.dll | Signature: VALID
+[Thread] ID: 20348 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 2644 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 9028 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 19420 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 21088 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 3400 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 15540 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 11680 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 19796 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 23092 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 2472 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 21324 | Start Addr: 765D9110 | In Module: combase.dll | Signature: VALID
+[Thread] ID: 17208 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 14900 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 15620 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 22352 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 15604 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 21808 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 10924 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 7120 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 23008 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 16800 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 21220 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 18824 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 2984 | Start Addr: 60F9A670 | In Module: XAudio2_7.dll | Signature: VALID
+[Thread] ID: 23548 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 13260 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 17620 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 17428 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 13928 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 21692 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
+[Thread] ID: 14484 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 2320 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 23788 | Start Addr: 77CE5DD0 | In Module: ntdll.dll | Signature: VALID
+[Thread] ID: 22068 | Start Addr: 6B831430 | In Module: mswsock.dll | Signature: INVALID
+ [!] Suspicious thread detected! Possible cheat.
+[Thread] ID: 24600 | Start Addr: 6B1B1430 | In Module: CheatDLL.dll | Signature: INVALID
+ [!] Suspicious thread detected! Possible cheat.
+[+] Anti-Cheat: persistent watchdog started.
+[+] Game detected! PID: 22592
+[+] SCAN BEGIN
+[Thread] ID: 21460 | Start Addr: 01D8B963 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 21612 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 15180 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 17868 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 14948 | Start Addr: 754E66E0 | In Module: mswsock.dll | Signature: VALID
+[Thread] ID: 20348 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 2644 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 9028 | Start Addr: 00DAA590 | In Module: PwnAdventure3-Win32-Shipping.exe | Signature: INVALID
+[Thread] ID: 19420 | Start Addr: 5F76E90F | In Module: nvwgf2um.dll | Signature: VALID
